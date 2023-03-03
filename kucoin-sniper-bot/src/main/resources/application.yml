@@ -1,0 +1,6 @@
+kucoin:
+  api:
+    key: ${KUCOIN_API_KEY}
+    secret: ${KUCOIN_SECRET}
+    passphrase: ${KUCOIN_PASSPHRASE}
+    trade-pair: ''
